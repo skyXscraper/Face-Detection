@@ -1,5 +1,5 @@
 # Face-Detection
-# Face-Detection-Model
+
 This repository contains a face detection model that identifies and locates a human face in a live feed.
 The model is capable of:
 
